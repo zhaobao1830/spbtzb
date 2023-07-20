@@ -41,7 +41,7 @@ public class Swagger2 {
                         /**
                          * 指定controller包
                          */
-                        .basePackage("com.zb.mmallzb.controller"))
+                        .basePackage("com.zhaobao.spbtzb.controller"))
                 /**
                  * 所有controller
                  */
